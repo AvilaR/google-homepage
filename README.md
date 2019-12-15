@@ -1,0 +1,1 @@
+A reproduction of the Google.com homepage to practice my HTML and CSS skills.
